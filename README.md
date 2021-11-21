@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/63019595/142741440-0df526b7-3022-4507-8711-be4e49ac8c61.png)
+![banner](https://github.com/EKivutha/About-Me/blob/master/about%20banner.jpeg)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-23-yellowgreen" />
