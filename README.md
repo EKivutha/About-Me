@@ -77,14 +77,14 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EKivutha&theme=highcontrast&count_private=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EKivutha&theme=tokyonight&count_private=true" />
 </a>
 </p>
 <br><br>
 
 <p align="center">
 <a href="https://github.com/EKivutha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKivutha&langs_count=15 &count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKivutha&langs_count=15 &count_private=true&theme=tokyonight" />
 </a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EKivutha&langs_count=15 &count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
