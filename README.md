@@ -4,7 +4,14 @@
   
 ### Hi there, I'm Ezra - aka [kibzgerald][twitter] 👋 
 
-
+<p align="center">
+<img src="https://img.shields.io/badge/Age-23-yellowgreen" />
+  <img src="https://img.shields.io/badge/Focus-Python%2C%20Data%20Science-yellowgreen" />
+  <img src="https://img.shields.io/badge/Lives-Nairobi-yellowgreen" />
+  <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-yellowgreen" />
+  <img src="https://img.shields.io/badge/Loves-Dogs-yellowgreen" />
+</p>
+<br/>
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/kibzgerald?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkibzgerald&screen_name=EKivutha)
 
@@ -50,16 +57,7 @@
 <br />
 <br />
 
-<p align="center">
-<img src="https://img.shields.io/badge/Age-23-yellowgreen" />
-  <img src="https://img.shields.io/badge/Focus-Python%2C%20Data%20Science-yellowgreen" />
-  <img src="https://img.shields.io/badge/Lives-Nairobi-yellowgreen" />
-  <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-yellowgreen" />
-  <img src="https://img.shields.io/badge/Loves-Dogs-yellowgreen" />
-</p>
-
-
-
+**##Github Stats 🥅**
 <p align="center">
   <a href="https://github.com/EKivutha/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Python%20Developer;Data%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
