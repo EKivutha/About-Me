@@ -2,7 +2,7 @@
 ![banner](https://github.com/EKivutha/About-Me/blob/master/about%20banner.jpeg)
 
   
-### Hi there, I'm Ezra - aka [kibzgerald][twitter follow] 👋 
+### Hi there, I'm Ezra - aka [kibzgerald][twitter] 👋 
 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
@@ -103,7 +103,7 @@
 [twitter]: https://twitter.com/kibzgerald
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/geraldkibz
-[linkedin]: https://linkedin.com/in/ezrakivutha
+[linkedin]: https://www.linkedin.com/in/ezra-kivutha-6bab5b18a/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
