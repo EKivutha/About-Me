@@ -70,7 +70,7 @@
 <br><br>
 
 <a href="https://github.com/EKivutha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EKivutha&show_icons=true&hide=contribs,prs&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EKivutha&show_icons=true&theme=highcontrast" />
 </a><br><br
             
 <a href="https://git.io/streak-stats">
