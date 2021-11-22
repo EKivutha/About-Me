@@ -84,7 +84,8 @@
 
 <p align="center">
 <a href="https://github.com/EKivutha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKivutha&theme=highcontrast&layout=compact&count_private=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EKivutha&langs_count=15 &count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 </p>
 <br><br>
