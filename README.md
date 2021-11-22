@@ -70,11 +70,11 @@
 <br><br>
 
 <a href="https://github.com/EKivutha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EKivutha&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EKivutha&show_icons=true&theme=highcontrast&count_private=true" />
 </a><br><br
             
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EKivutha&theme=highcontrast" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EKivutha&theme=highcontrast&count_private=true" />
 </a>
 <br><br>
 
