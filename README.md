@@ -83,10 +83,10 @@
 <br><br>
 
 <p align="center">
-<a href="https://github.com/EKivutha/github-readme-stats">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EKivutha&langs_count=15 &count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</a>
+
 </p>
 <br><br>
 
