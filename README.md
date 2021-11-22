@@ -70,7 +70,7 @@
 
 <p align="center">
 <a href="https://github.com/EKivutha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EKivutha&show_icons=true&theme=highcontrast&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EKivutha&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
   </p>
 <br><br>
