@@ -13,7 +13,6 @@
 </p>
 <br/>
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/kibzgerald?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkibzgerald&screen_name=EKivutha)
 
 ## I'm a  Developer, and Teacher!!
 
@@ -57,7 +56,7 @@
 <br />
 <br />
 
-**##Github Stats 🥅**
+### Github Statistics 🥅:
 <p align="center">
   <a href="https://github.com/EKivutha/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Python%20Developer;Data%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
