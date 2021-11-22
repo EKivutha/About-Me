@@ -1,6 +1,6 @@
-<p align="center">
+
 ![banner](https://github.com/EKivutha/About-Me/blob/master/about%20banner.jpeg)
-</p>
+
   
 ### Hi there, I'm Ezra - aka [kibzgerald][twitter follow] 👋 
 
