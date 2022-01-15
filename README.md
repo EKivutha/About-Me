@@ -1,5 +1,5 @@
 
-![banner](https://github.com/EKivutha/About-Me/blob/master/about%20banner.jpeg)
+<!-- ![banner](https://github.com/EKivutha/About-Me/blob/master/about%20banner.jpeg) -->
 
   
 ### Hi there, I'm Ezra - aka [kibzgerald][twitter] 👋 
