@@ -62,10 +62,6 @@
 </p>
 
 
-
-<p align="center">
-<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Ezra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EKivutha&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
-  </p>
 <br><br>
 
 <p align="center">
@@ -73,13 +69,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EKivutha&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
   </p>
-<br><br>
-
-<p align="center">
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EKivutha&theme=tokyonight&count_private=true" />
-</a>
-</p>
 <br><br>
 
 <p align="center">
